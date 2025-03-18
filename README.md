@@ -26,5 +26,3 @@ pandas==1.0.5
 matplotlib==3.2.2
 scipy==1.5.0
 xgboost==1.4.2
-
-## Conclusion
